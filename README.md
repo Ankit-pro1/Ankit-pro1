@@ -1,5 +1,5 @@
 - Hii, My name is Ankit Kumar. 
-- I am passionate Frontend Developer.
+- I am a passionate Frontend Developer.
 - I love to code
 - Working as Debug & Validation Engineer in Wipro
 - Studed Computer Science Engineering.
